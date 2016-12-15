@@ -1,7 +1,7 @@
 package main
 
 import (
-	"le_grand_soir/game"
+	"github.com/pbailhache/le_grand_soir/game"
 )
 
 func main() {
